@@ -1,0 +1,35 @@
+body{
+  font-family:apple-system;
+  background-color: lightgrey;
+  
+  
+  }
+  header{
+    text-align:center;
+    background-color:lightgrey;
+    font-size: 1.3em;
+    margin: 0;
+    padding: 10px;
+    font-family: sans-serif;
+  }
+  img{
+    background-color: white;
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    padding:80px;
+    text-align: center;
+  }
+  #tribute-info{
+    background-color: lightgrey;
+  }
+  footer{
+    text-align:center;
+    font-size: 1.5em;
+    font-weight:bold;
+  }
+  span{
+   font-weight: bold;
+  }
+  
